@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Claas/Claas.vcxproj" Id="8cf08c46-f0b3-4553-ab3a-ea8f868dc109" />
+</Solution>
